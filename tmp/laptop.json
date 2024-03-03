@@ -1,0 +1,62 @@
+{
+  "id": "bfafa442-db76-4da3-bd77-11f725fcc0c1",
+  "brand": "Lenovo",
+  "name": "Thinkpad X1",
+  "cpu": {
+    "brand": "Intel",
+    "name": "Core i5-9400F",
+    "number_cores": 2,
+    "number_threads": 11,
+    "min_ghz": 2.768919422793614,
+    "max_ghz": 4.947393913198533
+  },
+  "memory": {
+    "value": "26",
+    "unit": 5
+  },
+  "gpus": [
+    {
+      "brand": "NVIDIA",
+      "name": "GTX 1660-Ti",
+      "min_ghz": 2.297214982182047,
+      "max_ghz": 2.575244419454334,
+      "memory": {
+        "value": "4",
+        "unit": 5
+      }
+    }
+  ],
+  "storages": [
+    {
+      "dirver": 2,
+      "memory": {
+        "value": "473",
+        "unit": 5
+      }
+    },
+    {
+      "dirver": 1,
+      "memory": {
+        "value": "2",
+        "unit": 6
+      }
+    }
+  ],
+  "screen": {
+    "size_inch": 26.135788,
+    "resolution": {
+      "width": 6744,
+      "height": 3794
+    },
+    "panel": 0,
+    "multitouch": false
+  },
+  "keyboard": {
+    "layout": 3,
+    "backlit": false
+  },
+  "weight_kg": 2.724541208411501,
+  "priceusd": 2831.1169255860013,
+  "release_year": 2024,
+  "update_at": "2024-03-03T12:22:18.265806914Z"
+}
